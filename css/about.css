@@ -1,0 +1,20 @@
+.section-about {
+  padding: 9.6rem 0;
+}
+
+.about-description {
+  font-size: 2rem;
+  line-height: 1.6;
+  margin-bottom: 4.8rem;
+}
+
+.about-text {
+  font-size: 1.8rem;
+  line-height: 1.6;
+  margin-bottom: 3.2rem;
+}
+
+.heading-secondary {
+  margin-top: 4.8rem;
+  margin-bottom: 2.4rem;
+}

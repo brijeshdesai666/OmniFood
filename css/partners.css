@@ -1,0 +1,53 @@
+.section-partners {
+  padding: 9.6rem 0;
+}
+
+.partners-description {
+  font-size: 2rem;
+  line-height: 1.6;
+  margin-bottom: 4.8rem;
+}
+
+.partners-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2.4rem;
+}
+
+.partner-item {
+  text-align: center;
+  padding: 2.4rem;
+  border: 1px solid #ddd;
+  border-radius: 9px;
+  background-color: #fdf2e9;
+}
+
+.partner-text {
+  font-size: 1.8rem;
+  line-height: 1.6;
+  margin-bottom: 3.2rem;
+}
+
+.partner-img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 9px;
+}
+
+.partner-logo {
+  display: block;
+  margin: 0 auto 1.6rem;
+  width: 100px;
+  height: 100px; /* Ensure consistent height */
+  object-fit: cover; /* Ensure the image fits within the dimensions */
+}
+
+.partner-logo--wide {
+  width: 210px; /* Increase width for wider logos */
+}
+
+.heading-secondary {
+  font-size: 2.4rem;
+  color: #333;
+  font-weight: 600;
+}
